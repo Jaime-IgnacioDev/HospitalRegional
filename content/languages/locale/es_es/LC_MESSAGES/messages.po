@@ -18638,11 +18638,11 @@ msgstr "La ciudad actual"
 
 #: content/themes/default/templates/_js_translator.tpl:137
 msgid "Remaining Time"
-msgstr ""
+msgstr "Tiempo restante"
 
 #: content/themes/default/templates/_js_translator.tpl:138
 msgid "Fullscreen"
-msgstr ""
+msgstr "Pantalla completa"
 
 #: content/themes/default/templates/_js_translator.tpl:139
 msgid "Picture-in-Picture"
@@ -18650,11 +18650,11 @@ msgstr ""
 
 #: content/themes/default/templates/_js_translator.tpl:143
 msgid "View Fullscreen"
-msgstr ""
+msgstr "Ver pantalla completa"
 
 #: content/themes/default/templates/_js_translator.tpl:144
 msgid "Print Chart"
-msgstr ""
+msgstr "Imprimir gráfico"
 
 #: content/themes/default/templates/_js_translator.tpl:145
 #, fuzzy
@@ -18676,28 +18676,28 @@ msgstr "Descargar"
 
 #: content/themes/default/templates/_js_translator.tpl:148
 msgid "Download SVG vector image"
-msgstr ""
+msgstr "Descargar imagen vectorial SVG"
 
 #: content/themes/default/templates/_js_translator.tpl:149
 msgid "Chart context menu"
-msgstr ""
+msgstr "Menú contextual del gráfico"
 
 #: content/themes/default/templates/_js_translator.tpl:153
 #: content/themes/default/templates/index.landing.tpl:73
 msgid "Share your memories, connect with others, make new friends"
-msgstr ""
+msgstr "Comparte tus recuerdos, conéctate con otros, haz nuevos amigos"
 
 #: content/themes/default/templates/_js_translator.tpl:154
 msgid "Cover Photos"
-msgstr ""
+msgstr "Fotos de portada"
 
 #: content/themes/default/templates/_js_translator.tpl:155
 msgid "Profile Pictures"
-msgstr ""
+msgstr "Fotos de perfil"
 
 #: content/themes/default/templates/_js_translator.tpl:156
 msgid "Timeline Photos"
-msgstr ""
+msgstr "Fotos de la línea de tiempo"
 
 #: content/themes/default/templates/_js_translator.tpl:160
 msgid "What is on your mind? #Hashtag.. @Mention.. Link.."
@@ -18725,7 +18725,7 @@ msgstr ""
 
 #: content/themes/default/templates/_js_translator.tpl:166
 msgid "Write a Reply"
-msgstr ""
+msgstr "Escribir respuesta"
 
 #: content/themes/default/templates/_js_translator.tpl:167
 msgid "Write a message"
@@ -18733,7 +18733,7 @@ msgstr "Escribir post"
 
 #: content/themes/default/templates/_js_translator.tpl:168
 msgid "Pro User"
-msgstr ""
+msgstr "Usuario Pro"
 
 #: content/themes/default/templates/_js_translator.tpl:170
 #: content/themes/default/templates/page.tpl:1569
