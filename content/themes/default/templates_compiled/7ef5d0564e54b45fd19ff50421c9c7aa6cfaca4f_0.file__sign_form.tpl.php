@@ -367,7 +367,7 @@ $_smarty_tpl->getSmarty()->getRuntime('Foreach')->restore($_smarty_tpl, 1);?>
           
           <?php if ($_smarty_tpl->getValue('system')['newsletter_consent']) {?>
             <!-- newsletter consent -->
-            <div class="form-check mb10">
+            <!--<div class="form-check mb10">
               <input type="checkbox" class="form-check-input" name="newsletter_agree" id="newsletter_agree">
               <label class="form-check-label" for="newsletter_agree"><?php echo $_smarty_tpl->getSmarty()->getModifierCallback('__')("I expressly agree to receive the newsletter");?>
 </label>
@@ -717,7 +717,7 @@ $_smarty_tpl->getSmarty()->getRuntime('Foreach')->restore($_smarty_tpl, 1);?>
                         <input type="text" name="field1" style="display:none !important" tabindex="-1" autocomplete="off">
                         <?php if ($_smarty_tpl->getValue('system')['newsletter_consent']) {?>
               <!-- newsletter consent -->
-              <div class="form-check mb10">
+              <!--<div class="form-check mb10">
                 <input type="checkbox" class="form-check-input" name="newsletter_agree" id="newsletter_agree">
                 <label class="form-check-label" for="newsletter_agree">
                   <?php echo $_smarty_tpl->getSmarty()->getModifierCallback('__')("I expressly agree to receive the newsletter");?>

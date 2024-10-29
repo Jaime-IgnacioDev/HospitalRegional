@@ -8050,7 +8050,7 @@ body.index-body {
   background-repeat: no-repeat;
   left: 0;
   right: 0;
-  background-image: url(/content/themes/default/images/landing/welcome.jpg);
+  background-image: url(/content/themes/default/images/landing/hospitalmagfoto.jpg);
   background-position: center;
   opacity: 0.1;
 }

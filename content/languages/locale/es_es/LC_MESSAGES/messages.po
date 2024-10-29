@@ -14748,7 +14748,7 @@ msgstr "Vamos a empezar con tu foto"
 #: content/themes/default/templates/started.tpl:86
 #: content/themes/default/templates/started.tpl:185
 msgid "Next Step"
-msgstr "Paso anterior"
+msgstr "Siguiente paso"
 
 #: content/themes/default/templates/started.tpl:94
 msgid "Share your information with our community"
@@ -18701,7 +18701,7 @@ msgstr "Fotos de la línea de tiempo"
 
 #: content/themes/default/templates/_js_translator.tpl:160
 msgid "What is on your mind? #Hashtag.. @Mention.. Link.."
-msgstr "¿Cuál es en tu mente? #Hashtag... @Mention... Enlace..."
+msgstr "¿Qué tienes en mente? #Hashtag... @Mention... Enlace..."
 
 #: content/themes/default/templates/_js_translator.tpl:161
 msgid "Write a comment"
