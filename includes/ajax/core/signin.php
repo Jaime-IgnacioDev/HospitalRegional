@@ -3,8 +3,7 @@
 /**
  * ajax -> core -> signin
  * 
- * @package Sngine
- * @author Zamblek
+* Desarrollado por Jaime, Felipe y Gabriel
  */
 
 // set override_shutdown

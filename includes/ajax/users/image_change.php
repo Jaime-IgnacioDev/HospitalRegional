@@ -3,8 +3,7 @@
 /**
  * ajax -> users -> image change
  * 
- * @package Sngine
- * @author Zamblek
+* Desarrollado por Jaime, Felipe y Gabriel
  */
 
 // fetch bootstrap

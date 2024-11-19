@@ -3,8 +3,7 @@
 /**
  * ajax -> admin -> users
  * 
- * @package Sngine
- * @author Zamblek
+* Desarrollado por Jaime, Felipe y Gabriel
  */
 
 // set execution time

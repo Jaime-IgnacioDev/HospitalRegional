@@ -3,8 +3,7 @@
 /**
  * ajax -> payments -> securionpay
  * 
- * @package Sngine
- * @author Zamblek
+* Desarrollado por Jaime, Felipe y Gabriel
  */
 
 // fetch bootstrap

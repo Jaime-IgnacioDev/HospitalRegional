@@ -3,8 +3,7 @@
 /**
  * ajax -> modules -> add
  * 
- * @package Sngine
- * @author Zamblek
+* Desarrollado por Jaime, Felipe y Gabriel
  */
 
 // fetch bootstrap

@@ -3,8 +3,7 @@
 /**
  * webhooks -> moneypoolscash
  * 
- * @package Sngine
- * @author Zamblek
+* Desarrollado por Jaime, Felipe y Gabriel
  */
 
 // fetch bootloader

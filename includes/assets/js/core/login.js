@@ -1,8 +1,7 @@
 /**
  * login js
  * 
- * @package Sngine
- * @author Zamblek
+* Desarrollado por Jaime, Felipe y Gabriel
  */
 
 $(function () {

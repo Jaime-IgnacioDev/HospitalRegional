@@ -3,8 +3,7 @@
 /**
  * ajax -> users -> mutual friends
  * 
- * @package Sngine
- * @author Zamblek
+* Desarrollado por Jaime, Felipe y Gabriel
  */
 
 // fetch bootstrap

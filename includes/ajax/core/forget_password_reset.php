@@ -3,8 +3,7 @@
 /**
  * ajax -> core -> forget password reset
  * 
- * @package Sngine
- * @author Zamblek
+* Desarrollado por Jaime, Felipe y Gabriel
  */
 
 // fetch bootstrap

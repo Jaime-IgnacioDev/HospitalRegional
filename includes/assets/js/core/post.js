@@ -1,8 +1,7 @@
 /**
  * post js
  * 
- * @package Sngine
- * @author Zamblek
+* Desarrollado por Jaime, Felipe y Gabriel
  */
 
 // initialize API URLs

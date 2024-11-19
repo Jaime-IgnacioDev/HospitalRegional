@@ -3,8 +3,7 @@
 /**
  * settings
  * 
- * @package Sngine
- * @author Zamblek
+* Desarrollado por Jaime, Felipe y Gabriel
  */
 
 // remove timeout limit
